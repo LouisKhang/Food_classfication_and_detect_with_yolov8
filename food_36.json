@@ -1,0 +1,335 @@
+{
+  "Banh_canh": {
+    "name_vi": "Bánh canh",
+    "price": 35000,
+    "calories": 410,
+    "protein": 20,
+    "carbs": 58,
+    "fat": 10,
+    "description": "Bánh canh sợi dày với nước dùng xương"
+  },
+  "Banh_chung": {
+    "name_vi": "Bánh chưng",
+    "price": 50000,
+    "calories": 450,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 14,
+    "description": "Bánh chưng truyền thống nhân thịt mỡ đậu xanh"
+  },
+  "Banh_cuon": {
+    "name_vi": "Bánh cuốn",
+    "price": 30000,
+    "calories": 320,
+    "protein": 16,
+    "carbs": 48,
+    "fat": 8,
+    "description": "Bánh cuốn mỏng nhân thịt băm mộc nhĩ"
+  },
+  "Banh_khot": {
+    "name_vi": "Bánh khọt",
+    "price": 40000,
+    "calories": 350,
+    "protein": 15,
+    "carbs": 42,
+    "fat": 14,
+    "description": "Bánh khọt Vũng Tàu giòn rụm với tôm"
+  },
+  "Banh_mi": {
+    "name_vi": "Bánh mì",
+    "price": 20000,
+    "calories": 380,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 15,
+    "description": "Bánh mì Việt Nam với nhân thịt và rau củ"
+  },
+  "Banh_trang_tron": {
+    "name_vi": "Bánh tráng trộn",
+    "price": 20000,
+    "calories": 300,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 10,
+    "description": "Bánh tráng trộn bò khô, trứng cút và xoài"
+  },
+  "Banh_xeo": {
+    "name_vi": "Bánh xèo",
+    "price": 50000,
+    "calories": 420,
+    "protein": 20,
+    "carbs": 48,
+    "fat": 18,
+    "description": "Bánh xèo giòn với nhân tôm thịt"
+  },
+  "Bo_kho": {
+    "name_vi": "Bò kho",
+    "price": 45000,
+    "calories": 480,
+    "protein": 32,
+    "carbs": 45,
+    "fat": 18,
+    "description": "Bò kho với nước sốt đậm đà, ăn kèm bánh mì hoặc hủ tiếu"
+  },
+  "Bo_la_lot": {
+    "name_vi": "Bò lá lốt",
+    "price": 45000,
+    "calories": 350,
+    "protein": 22,
+    "carbs": 15,
+    "fat": 24,
+    "description": "Thịt bò nướng cuộn lá lốt thơm lừng"
+  },
+  "Bun_bo_Hue": {
+    "name_vi": "Bún bò Huế",
+    "price": 45000,
+    "calories": 520,
+    "protein": 28,
+    "carbs": 65,
+    "fat": 18,
+    "description": "Bún bò cay đặc trưng của xứ Huế"
+  },
+  "Bun_dau": {
+    "name_vi": "Bún đậu",
+    "price": 40000,
+    "calories": 450,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 18,
+    "description": "Bún đậu mắm tôm thập cẩm"
+  },
+  "Bun_mam": {
+    "name_vi": "Bún mắm",
+    "price": 50000,
+    "calories": 480,
+    "protein": 26,
+    "carbs": 58,
+    "fat": 15,
+    "description": "Bún mắm đặc sản miền Tây sông nước"
+  },
+  "Bun_rieu": {
+    "name_vi": "Bún riêu",
+    "price": 35000,
+    "calories": 420,
+    "protein": 22,
+    "carbs": 56,
+    "fat": 12,
+    "description": "Bún riêu cua đồng ngọt thanh"
+  },
+  "Cha": {
+    "name_vi": "Chả",
+    "price": 15000,
+    "calories": 250,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 18,
+    "description": "Chả lụa hoặc chả quế cắt miếng"
+  },
+  "Cha_gio": {
+    "name_vi": "Chả giò",
+    "price": 30000,
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20,
+    "description": "Nem rán/chả giò chiên giòn rụm"
+  },
+  "Com_tam": {
+    "name_vi": "Cơm tấm",
+    "price": 40000,
+    "calories": 520,
+    "protein": 28,
+    "carbs": 68,
+    "fat": 16,
+    "description": "Cơm tấm Sài Gòn sườn bì chả"
+  },
+  "Goi_cuon": {
+    "name_vi": "Gỏi cuốn",
+    "price": 8000,
+    "calories": 180,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 4,
+    "description": "Gỏi cuốn tôm thịt tươi ngon (giá mỗi cuốn)"
+  },
+  "Hamburger": {
+    "name_vi": "Hamburger",
+    "price": 45000,
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 22,
+    "description": "Bánh mì kẹp thịt bò và phô mai kiểu Á-Âu"
+  },
+  "Heo_quay": {
+    "name_vi": "Heo quay",
+    "price": 60000,
+    "calories": 400,
+    "protein": 22,
+    "carbs": 2,
+    "fat": 35,
+    "description": "Thịt heo quay da giòn (phần 200g)"
+  },
+  "Hu_tieu": {
+    "name_vi": "Hủ tiếu",
+    "price": 35000,
+    "calories": 440,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 11,
+    "description": "Hủ tiếu Nam Vang hoặc hủ tiếu gõ"
+  },
+  "Kho_qua_thit": {
+    "name_vi": "Khổ qua thịt",
+    "price": 25000,
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 10,
+    "description": "Canh khổ qua nhồi thịt băm"
+  },
+  "Khoai_tay_chien": {
+    "name_vi": "Khoai tây chiên",
+    "price": 25000,
+    "calories": 312,
+    "protein": 3.4,
+    "carbs": 41,
+    "fat": 15,
+    "description": "Khoai tây cắt thanh chiên giòn"
+  },
+  "Lau": {
+    "name_vi": "Lẩu",
+    "price": 250000,
+    "calories": 500,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18,
+    "description": "Lẩu thập cẩm cho 2-3 người ăn"
+  },
+  "Mi": {
+    "name_vi": "Mì",
+    "price": 30000,
+    "calories": 400,
+    "protein": 14,
+    "carbs": 65,
+    "fat": 10,
+    "description": "Mì trứng nước hoặc mì xào"
+  },
+  "Pho": {
+    "name_vi": "Phở",
+    "price": 45000,
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12,
+    "description": "Phở bò hoặc phở gà truyền thống"
+  },
+  "Thit_kho": {
+    "name_vi": "Thịt kho",
+    "price": 40000,
+    "calories": 450,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 32,
+    "description": "Thịt ba chỉ kho tàu"
+  },
+  "Thit_nuong": {
+    "name_vi": "Thịt nướng",
+    "price": 40000,
+    "calories": 350,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 25,
+    "description": "Thịt heo nướng xiên hoặc miếng"
+  },
+  "Tom": {
+    "name_vi": "Tôm",
+    "price": 80000,
+    "calories": 150,
+    "protein": 24,
+    "carbs": 1,
+    "fat": 3,
+    "description": "Tôm hấp hoặc rang muối (phần 200g)"
+  },
+  "Xoi": {
+    "name_vi": "Xôi",
+    "price": 15000,
+    "calories": 380,
+    "protein": 10,
+    "carbs": 72,
+    "fat": 8,
+    "description": "Xôi nếp các loại (xôi xéo, xôi lạc, xôi mặn)"
+  },
+  "Banh_beo": {
+    "name_vi": "Bánh bèo",
+    "price": 25000,
+    "calories": 180,
+    "protein": 8,
+    "carbs": 28,
+    "fat": 5,
+    "description": "Bánh bèo chén với tôm khô và mỡ hành"
+  },
+  "Mi_quang": {
+    "name_vi": "Mì Quảng",
+    "price": 40000,
+    "calories": 500,
+    "protein": 28,
+    "carbs": 62,
+    "fat": 16,
+    "description": "Mì Quảng gà hoặc tôm thịt"
+  },
+  "Com_chien_Duong_Chau": {
+    "name_vi": "Cơm chiên Dương Châu",
+    "price": 45000,
+    "calories": 550,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 20,
+    "description": "Cơm chiên thập cẩm nhiều màu sắc"
+  },
+  "Com_chien_ga": {
+    "name_vi": "Cơm chiên gà",
+    "price": 50000,
+    "calories": 580,
+    "protein": 32,
+    "carbs": 65,
+    "fat": 22,
+    "description": "Cơm chiên xối mỡ với đùi gà giòn"
+  },
+  "Chao_long": {
+    "name_vi": "Cháo lòng",
+    "price": 30000,
+    "calories": 340,
+    "protein": 18,
+    "carbs": 48,
+    "fat": 10,
+    "description": "Cháo huyết với lòng heo thập cẩm"
+  },
+  "Nom_hoa_chuoi": {
+    "name_vi": "Nộm hoa chuối",
+    "price": 35000,
+    "calories": 120,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 4,
+    "description": "Nộm hoa chuối tai heo giòn sần sật"
+  },
+  "Nui_xao_bo": {
+    "name_vi": "Nui xào bò",
+    "price": 40000,
+    "calories": 480,
+    "protein": 26,
+    "carbs": 55,
+    "fat": 18,
+    "description": "Nui ống xào thịt bò và sốt cà chua"
+  },
+  "Sup_cua": {
+    "name_vi": "Súp cua",
+    "price": 25000,
+    "calories": 220,
+    "protein": 16,
+    "carbs": 18,
+    "fat": 10,
+    "description": "Súp cua nóng hổi với trứng bách thảo"
+  }
+}

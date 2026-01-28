@@ -1,0 +1,981 @@
+[
+  {
+    "timestamp": "2026-01-28 19:08:20",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 19:08:20",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 19:08:20",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 19:08:20",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 19:06:24",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 19:06:24",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:55:07",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:55:07",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:51:35",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:51:35",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:48:53",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:48:53",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:48:53",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:48:53",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:44:29",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:44:29",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:44:29",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:44:29",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:38:19",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:38:19",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:38:19",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:38:19",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:38:19",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:38:19",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:31:34",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:31:34",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:31:34",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:31:34",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:31:34",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:31:34",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:31:34",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:29:46",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:29:46",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:29:46",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:29:46",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:29:46",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:29:46",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:29:46",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:28:51",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:28:51",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:28:51",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:28:51",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:28:51",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:28:51",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:22:13",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:22:13",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:22:13",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:22:13",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:22:13",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:22:13",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:22:13",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:07:36",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:07:36",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:07:36",
+    "source": "upload (chảgio2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9509821534156799
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:07:36",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:07:36",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:07:36",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:07:36",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:37",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:37",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:36",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:36",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:36",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:36",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:36",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:00",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:00",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:06:00",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:05:59",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:05:59",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:05:59",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:05:59",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:03:16",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:03:16",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:03:16",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:01:30",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:01:30",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:01:30",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:01:30",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:01:30",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:01:30",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 18:01:30",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 17:56:52",
+    "source": "upload (xoi-lap-xuong-3.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Xoi",
+        "confidence": 0.8745395541191101
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 17:56:52",
+    "source": "upload (tomluoc2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Tom",
+        "confidence": 0.862660825252533
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 17:56:52",
+    "source": "upload (cha-gio.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Cha gio",
+        "confidence": 0.9274395108222961
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 17:56:52",
+    "source": "upload (hutieu2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Hu tieu",
+        "confidence": 0.6485047936439514
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 17:56:52",
+    "source": "upload (banhxeo2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Banh xeo",
+        "confidence": 0.7878862619400024
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 17:56:51",
+    "source": "upload (pho2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Pho",
+        "confidence": 0.9245821237564087
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-28 17:56:51",
+    "source": "upload (bun-bo-hue-2.jpg)",
+    "total_detected": 1,
+    "items": [
+      {
+        "name": "Bun bo Hue",
+        "confidence": 0.8730501532554626
+      }
+    ]
+  }
+]
