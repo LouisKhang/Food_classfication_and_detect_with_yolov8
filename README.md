@@ -13,11 +13,8 @@ A comprehensive AI-powered food detection and recognition system specialized in 
 
 ### Core Detection Features
 - **Real-time Food Detection**: Detect up to 36 Vietnamese food items using webcam/camera input
-- **High Accuracy**: Trained models with 30 Vietnamese food classes
-- **Multiple Model Variants**: 
-  - 36-class model with 1100+ training images
-  - 49-class model with 800+ training images
-  - Specialized VIP model with 31 classes
+- **High Accuracy**: Trained models with 36 Vietnamese food classes
+
 
 ### GUI Application Features
 - **Live Detection**: Real-time camera feed with bounding boxes and confidence scores
@@ -50,10 +47,8 @@ A comprehensive AI-powered food detection and recognition system specialized in 
 food_selected_pho_bun/
 ├── README.md                          # Main documentation
 ├── requirements.txt                   # Python dependencies
-├── data.yaml                          # Dataset configuration
 ├── UPDATES.md                         # Latest updates and features
 ├── yolov8s.pt                         # Base YOLOv8s model (optional)
-├── food_36.json                       # Food database (36 classes)
 ├── food_36.json                       # Food database (36 classes)
 ├── detection_history.json             # Detection records
 ├── test_normalization.py              # Image normalization tests
@@ -69,29 +64,6 @@ food_selected_pho_bun/
 │   ├── history_utils.py               # Detection history management
 │   └── __init__.py                    # Package initialization
 │
-├── dataset/                           # Training dataset
-│   ├── data.yaml                      # Dataset paths and classes
-│   ├── images/
-│   │   ├── train/                     # Training images
-│   │   ├── valid/                     # Validation images
-│   │   └── test/                      # Test images
-│   ├── labels/
-│   │   ├── train/                     # Training annotations (YOLO format)
-│   │   ├── valid/                     # Validation annotations
-│   │   └── test/                      # Test annotations
-│   └── food_detection/
-│       └── food_detection.py          # Dataset utilities
-│
-├── food_detection_36class_1100/       # 36-class model (1100 images)
-│   ├── food_detection_36class_1100/   # Training results
-│   └── food_detection_36class_1100_resume/  # Resumed training
-│
-├── food_detection_49class_800/        # 49-class model (800 images)
-│   ├── food_detection_49class/        # Training results
-│   └── food_detection_49class_resume/ # Resumed training
-│
-├── yolov8s_vietfood_dataset_31class_5000_image/  # VIP model
-│   └── yolov8s_vietfood_VIP/
 │
 ├── runs/                              # Detection results
 │   └── detect/                        # All prediction outputs
@@ -104,9 +76,8 @@ food_selected_pho_bun/
 │   └── payment_success.html           # Payment confirmation page
 │
 └── training notebooks/
-    ├── food_detection_train3.ipynb    # Training script
     ├── food_split_dataset.ipynb       # Dataset splitting script
-    └── food_detection_train_*.ipynb   # Various training experiments
+    └── food_detection_train_26.ipynb   # Various training experiments
 ```
 
 ---
@@ -344,7 +315,7 @@ Invoices stored in:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Model Not Found
 - Check `MODEL_PATH` in [app/config.py](app/config.py)
@@ -382,15 +353,15 @@ Invoices stored in:
 
 ---
 
-## 🔄 Latest Updates
+##  Latest Updates
 
 See [UPDATES.md](UPDATES.md) for detailed changelog:
-- ✅ Grid layout for result display
-- ✅ Mouse wheel scrolling
-- ✅ Payment system integration
-- ✅ Invoice generation and history
-- ✅ Enhanced UI with compact cards
-- ✅ Nutritional information display
+-  Grid layout for result display
+-  Mouse wheel scrolling
+-  Payment system integration
+-  Invoice generation and history
+-  Enhanced UI with compact cards
+-  Nutritional information display
 
 ---
 
@@ -421,7 +392,7 @@ dataset/
 
 ---
 
-## 🔐 File Paths Configuration
+##  File Paths Configuration
 
 Update these paths for your system:
 
@@ -462,14 +433,6 @@ This project is for educational and commercial use.
 
 ---
 
-## 📧 Contact & Support
-
-For issues, questions, or suggestions:
-- Create an issue on GitHub
-- Check existing documentation
-- Review [UPDATES.md](UPDATES.md) for recent changes
-
----
 
 ## References
 
@@ -491,4 +454,4 @@ This project was developed for Vietnamese cuisine detection and recognition. Spe
 
 **Last Updated**: January 28, 2026  
 **Version**: 2.0 (With Payment & Invoice System)  
-**Status**: Active Development ✅
+**Status**: Active Development 
