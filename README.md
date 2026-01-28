@@ -14,5 +14,7 @@ APP UI:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/20bb774c-083e-42bd-a1b3-9931956673a8" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/968c1ba7-3b94-4b00-a271-4441b86a223f" /># Food_classfication_and_detect_with_yolov8
 
-
+4.QR AND PAYMENT CONFIRMATION_UI
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/d84b3484-ffe3-4a4d-be34-d36fb1192fe8" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d64ce85-20ca-43dd-ad66-3194442e92a0" />
 
