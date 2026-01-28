@@ -456,19 +456,20 @@ This project was developed for Vietnamese cuisine detection and recognition. Spe
 **Version**: 2.0 (With Payment & Invoice System)  
 **Status**: Active Development 
 
-##APP
-##1 Main_UI
+## APP
+## 1.Main_UI
 <img width="1900" height="1079" alt="image" src="https://github.com/user-attachments/assets/6c175932-ef7f-4812-85a0-ed7f5b67a93a" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1676c32-526d-49da-b8a8-e38ab3563783" />
-##2 Detect_UI
+## 2.Detect_UI
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e140321-d621-4052-9183-8c494464aa82" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d596a2db-4b72-49ff-966e-5268158bfc90" />
-##3 Payment_UI
+## 3.Payment_UI
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ad93594-5d9c-4c72-ad8e-850275282a0b" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2bb0d2e8-d925-4b01-9625-dd861e455c72" />
-##4 QR AND PAYMENT CONFIRMATION
+## 4.QR AND PAYMENT CONFIRMATION
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/524fa547-7018-4e30-8fa6-5858750f0eb1" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b24b4f21-51a8-44a0-b194-81b0fea2c638" />
+
 
 
 
