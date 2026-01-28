@@ -161,7 +161,7 @@ food_detection_36class_1100/food_detection_36class_1100_resume/yolov8s_vietfood_
 
 ---
 
-## 📖 Usage
+##  Usage
 
 ### Running the Application
 ```bash
@@ -231,8 +231,7 @@ names:
 
 ### Current Models
 - **36-class Model**: Best for pho and bun specialties (1100+ training images)
-- **49-class Model**: Extended food categories (800+ training images)  
-- **VIP Model**: Premium 31-class model (5000+ training images)
+
 
 ### Model Performance
 - **Architecture**: YOLOv8s (Small)
@@ -242,7 +241,7 @@ names:
 
 ### Training Details
 Training notebooks available:
-- [food_detection_train3.ipynb](food_detection_train3.ipynb)
+- [food_detection_train3.ipynb](food_detection_train_26.ipynb)
 - [food_split_dataset.ipynb](food_split_dataset.ipynb)
 - Additional training experiments in training subdirectories
 
@@ -299,7 +298,7 @@ Invoices stored in:
 
 ---
 
-## 📝 Important Files
+## Important Files
 
 | File | Purpose |
 |------|---------|
@@ -310,8 +309,7 @@ Invoices stored in:
 | [app/config.py](app/config.py) | Configuration settings |
 | [app/image_utils.py](app/image_utils.py) | Image processing functions |
 | [app/history_utils.py](app/history_utils.py) | History and data management |
-| [data.yaml](data.yaml) | Dataset configuration |
-| [requirements.txt](requirements.txt) | Python dependencies |
+
 
 ---
 
@@ -469,6 +467,7 @@ This project was developed for Vietnamese cuisine detection and recognition. Spe
 ## 4.QR AND PAYMENT CONFIRMATION
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/524fa547-7018-4e30-8fa6-5858750f0eb1" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b24b4f21-51a8-44a0-b194-81b0fea2c638" />
+
 
 
 
