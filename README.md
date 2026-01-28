@@ -6,6 +6,7 @@ APP UI:
 1.Main UI
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3f828667-7ccf-451a-9062-2ad83fda69be" />
 2.Detect_UI
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/326033af-b14d-4c6b-98bb-38e428c4ae0e" />
 <img width="1912" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa8df66d-aed9-43f2-a869-8de13c404512" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a9159c97-a50a-4343-ad65-1c553fdb87c4" />
 3.Payment_UI
