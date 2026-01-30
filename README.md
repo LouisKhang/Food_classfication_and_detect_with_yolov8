@@ -688,16 +688,34 @@ We acknowledge the traditional knowledge and cultural significance of Vietnamese
 
 ### Main Application Interface
 *Real-time food detection with camera feed and control panel*
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7290681d-7a02-4c5e-b527-f73aff7aad96" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/94b54029-59bd-43d0-b7bd-54e346ede50b" />
+
 
 ### Detection Results Grid
 *Grid layout showing detected foods with nutritional information*
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eab2af60-6f0c-412d-99c0-7564626c2070" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7de6130c-97af-442d-a1b9-8ace219820dd" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3a03fc9f-efa7-4f4e-8fc9-6cc4b368d230" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4750408b-d4de-492f-ac66-3d2d9c06b393" />
+
+
 
 ### Payment Processing
 *QR code generation and mobile payment integration*
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/56188a5c-1885-4fef-8f20-c1865c359e15" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/61327e9f-5e7c-4c6d-b5a0-577864d2f6d0" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c69c1fb7-e906-4ba4-aaf6-b60268773cda" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e4c4d46-2b4a-46a4-88cb-1302d3bbfbe5" />
+
+
 
 ### Invoice Generation
 *Automatic receipt creation with transaction details*
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/5a907144-51f1-4f68-b2bd-a2b6af2e1cdb" />
+<img width="1907" height="1079" alt="image" src="https://github.com/user-attachments/assets/d00d079b-85bf-4ebf-bb8c-498c4efa2744" />
 
 ---
 
 *For technical support or feature requests, please create an issue in the repository.*
+
