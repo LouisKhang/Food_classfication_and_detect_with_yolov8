@@ -1,4 +1,0 @@
-opencv-python
-Pillow
-ultralytics
-qrcode[pil]
