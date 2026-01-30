@@ -8,6 +8,7 @@ A comprehensive AI-powered food detection and recognition system specialized in 
 **UI:** Tkinter (Python)
 ## Dataset
 https://drive.google.com/file/d/1BXYFl-KznL6JG5qC8xZqNkrvgaaHcEBr/view?usp=sharing
+The dataset used in this project is a small subset(about 1100 image/37 class) extracted from vietfood_68 dataset 
 ---
 
 ## Features
@@ -719,5 +720,6 @@ We acknowledge the traditional knowledge and cultural significance of Vietnamese
 ---
 
 *For technical support or feature requests, please create an issue in the repository.*
+
 
 
