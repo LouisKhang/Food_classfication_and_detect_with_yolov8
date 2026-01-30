@@ -467,8 +467,3 @@ This project was developed for Vietnamese cuisine detection and recognition. Spe
 ## 4.QR AND PAYMENT CONFIRMATION
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/524fa547-7018-4e30-8fa6-5858750f0eb1" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b24b4f21-51a8-44a0-b194-81b0fea2c638" />
-
-
-
-
-
