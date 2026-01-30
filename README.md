@@ -6,7 +6,8 @@ A comprehensive AI-powered food detection and recognition system specialized in 
 **Model:** YOLOv8s (Small)  
 **Framework:** PyTorch + Ultralytics  
 **UI:** Tkinter (Python)
-
+## Dataset
+https://drive.google.com/file/d/1BXYFl-KznL6JG5qC8xZqNkrvgaaHcEBr/view?usp=sharing
 ---
 
 ## Features
@@ -718,4 +719,5 @@ We acknowledge the traditional knowledge and cultural significance of Vietnamese
 ---
 
 *For technical support or feature requests, please create an issue in the repository.*
+
 
